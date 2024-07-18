@@ -1,0 +1,13 @@
+{
+    "authUrl": "https://xkyg6hgbia.execute-api.ap-south-1.amazonaws.com/",
+    "commerceUrl": "https://5u5igmsayi.execute-api.ap-south-1.amazonaws.com/",
+    "gatewayUrl": "https://7z80pfcmyf.execute-api.ap-south-1.amazonaws.com/",
+    "memberUrl": "https://90kdn31xki.execute-api.ap-south-1.amazonaws.com/",
+    "paymentUrl": "https://h3gr9lo7kb.execute-api.ap-south-1.amazonaws.com/payment/v1/api/",
+    "imageUploadUrl": "https://mzdj9zyo62.execute-api.ap-south-1.amazonaws.com/doc-upload/",
+    "imageResizeUrl": "https://qzc8g7qbwa.execute-api.ap-south-1.amazonaws.com/",
+    "groupId":1698658253245,
+    "version":"13.0.3",
+    "sendOtpGroupId": 1703228300417,
+    "appId":1698744195060
+  }

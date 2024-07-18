@@ -1,0 +1,16 @@
+{
+  "authUrl": "https://uat-auth.example.com",
+  "commerceUrl": "https://uat-commerce.example.com",
+  "gatewayUrl": "https://uat-gateway.example.com",
+  "memberUrl": "https://uat-member.example.com",
+  "academicUrl": "https://uat-academic.example.com",
+  "imageUploadUrl": "https://uat-upload.example.com",
+  "imageResizeUrl": "https://uat-resize.example.com",
+  "groupId": 1,
+  "sendOtpGroupId": 2,
+  "experienceGroupId": 3,
+  "roleId": 4,
+  "version": "1.0",
+  "attendanceBaseUrl": "https://uat-attendance.example.com",
+  "appId": 123
+}
